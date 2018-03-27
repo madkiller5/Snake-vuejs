@@ -4,4 +4,5 @@
 
 ## Build Information
 
-Aplikacja została stworzona w celach nauki frameworka Vue.js
+Aplikacja została stworzona w celach nauki frameworka Vue.js.
+Jest to implementacja prostej gry Snake.
