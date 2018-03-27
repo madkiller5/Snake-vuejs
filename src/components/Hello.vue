@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-        title: 'Welcome in Snake game!!!!!'
+        title: 'Welcome in Snake game!'
     }
   }
 }
