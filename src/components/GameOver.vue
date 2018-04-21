@@ -2,6 +2,8 @@
   <div id="gameover">
     <p>You Lost!</p>
     <button v-on:click="tryAgain">Try Again!</button>
+
+      
   </div>
 </template>
 
